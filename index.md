@@ -13,3 +13,5 @@ int a = 1;
 int b = 1;
 cout << a + b << endl;
 ```
+- [X] Coding
+- [ ] Eating
